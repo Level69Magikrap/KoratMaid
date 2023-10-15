@@ -15,14 +15,19 @@ const handleChange = (value: string) => {
 const { TextArea } = Input;
 const columns: ColumnsType<ReviewInterface> = [
   {
+      title: "เวลา",
+      dataIndex: "CreatedAt",
+      key: "1",
+  },
+  {
       title: "คะแนน",
       dataIndex: "Rate",
-      key: "rate",
+      key: "2",
   },
   {
       title: "ข้อความ",
       dataIndex: "Detail",
-      key: "detail",
+      key: "3",
   }
   ];   
 
