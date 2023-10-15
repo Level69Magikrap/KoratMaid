@@ -18,7 +18,6 @@ import { ProfilePage2 }   from "./screens/ProfilePage2";
 
 
 //HELLO World โปรเจคโง่ๆ
-// test
 
 const App: React.FC = () => {
   return (
