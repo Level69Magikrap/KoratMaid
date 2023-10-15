@@ -5,3 +5,4 @@ function GetId(password: string){
     return(ID);
 }
 export default GetId;
+
