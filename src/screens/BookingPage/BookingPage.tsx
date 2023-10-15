@@ -36,7 +36,6 @@ export const BookingPage = (): JSX.Element => {
   // const [form] = Form.useForm();
 
   const onFinish = async (values: ServiceInterface) => {
-    
     const formatValues: ServiceInterface = {
       ID: values.ID,
       // Member:1,
@@ -112,9 +111,6 @@ export const BookingPage = (): JSX.Element => {
     getHourOfWork();
     getMemberById();
   }, []);
-  
-  
-
   const disabledDate: DatePickerProps['disabledDate'] = (current) => {
     return current && current < dayjs().subtract(1, 'day').endOf('day');
   };

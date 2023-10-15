@@ -75,7 +75,7 @@ export const BookingPage2 = (): JSX.Element => {
               <div className="text-wrapper-12">{userData ? `${(userData as Service1Interface).Accom_charge}` : 'N/A'}</div>
               Baht
             </div>
-            <div className="text-wrapper-2">Accommodation Type :</div>
+            <div className="text-wrapper-20">Accommodation Type :</div>
             <div className="text-wrapper-3">Schedule :</div>
             <div className="text-wrapper-4">Duration :</div>
             <p className="p">Dose your place have pets? (if yes,please specify)</p>
@@ -94,7 +94,6 @@ export const BookingPage2 = (): JSX.Element => {
                 <Buttonn buttonTextClassName="button-2" className="button-instance" text="Next" />
             </Link>
             <div className="text-wrapper-11">Booking a service</div>
-            <BackButton5 className="back-button-instance" />
             <IconHome className="icon-home-2" />
         </div>
       </div>

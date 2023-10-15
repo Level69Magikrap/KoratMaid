@@ -18,8 +18,6 @@ export interface UsersInterface {
     Tel :      string;
     Address:   string;
 }
-
-
 export interface ServiceInterface {
 
     ID?: number;
