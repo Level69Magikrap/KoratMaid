@@ -17,7 +17,7 @@ import { ProfilePage }    from "./screens/ProfilePage";
 import { ProfilePage2 }   from "./screens/ProfilePage2";
 
 
-//HELLO World
+//HELLO World โปรเจคโง่ๆ
 
 const App: React.FC = () => {
   return (
