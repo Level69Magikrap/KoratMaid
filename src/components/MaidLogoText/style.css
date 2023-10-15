@@ -1,0 +1,16 @@
+.maid-logo-text {
+  height: 240px;
+  left: 42%;
+  position: relative;
+  top: -0.08;
+  width: 17%;
+}
+
+.maid-logo-text .img {
+  height: 163px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 77px;
+  width: 240px;
+}

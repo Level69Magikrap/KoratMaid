@@ -1,0 +1,1 @@
+export { MaidLogoWhite } from "./MaidLogoWhite";

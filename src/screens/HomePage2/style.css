@@ -1,0 +1,318 @@
+
+.home-page2 {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-page2 .div {
+  background-image: url('../../image/mainBG.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  width: 100%;
+}
+
+.home-page2 .overlap-group {
+  height: 240px;
+  left: 0;
+  position: absolute;
+  top: -77px;
+  width: 100%;
+}
+
+.home-page2 .main-tab-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 77px !important;
+}
+
+.home-page2 .maid-logo-text-instance {
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.home-page2 .text-wrapper {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  height: 32px;
+  left: 28%;
+  letter-spacing: 2.4px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 45%;
+  width: 5.3%;
+}
+
+.home-page2 .username {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  height: 36px;
+  left: 77%;
+  letter-spacing: 2.4px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 45%;
+  width: 12%;
+}
+
+.home-page2 .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  height: 32px;
+  left: 2.7%;
+  letter-spacing: 2.4px;
+  position: absolute;
+  text-align: center;
+  top: 45%;
+  width: 11%;
+}
+
+.home-page2 .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  height: 32px;
+  left: 15%;
+  letter-spacing: 2.4px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 45%;
+  width: 11%;
+}
+
+.home-page2 .icon-profile-circle-instance {
+  left: 90% !important;
+  top: 40% !important;
+  
+}
+
+.home-page2 .overlap {
+  -webkit-backdrop-filter: blur(10px) brightness(100%);
+  backdrop-filter: blur(10px) brightness(100%);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 99.1%);
+  border-radius: 90.5px 90.5px 0px 0px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 256px;
+  left: 11%;
+  position: absolute;
+  top: 300px;
+  width: 265px;
+}
+
+.home-page2 .icon-calendar {
+  height: 166px;
+  left: 60px;
+  position: absolute;
+  top: 45px;
+  width: 144px;
+}
+.home-page2 .booking-button {
+  border-bottom-left-radius: 90px;
+  border-bottom-right-radius:90px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  height: 81px !important;
+  left: 11% !important;
+  position: absolute !important;
+  top: 556px !important;
+  width: 265px !important;
+}
+
+.home-page2 .overlap-2 {
+  -webkit-backdrop-filter: blur(10px) brightness(100%);
+  backdrop-filter: blur(10px) brightness(100%);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 90.5px 90.5px 0px 0px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 256px;
+  left: 30.8%;
+  position: absolute;
+  top: 300px;
+  width: 265px;
+}
+
+.home-page2 .icon-refresh {
+  height: 152px;
+  left: 57px;
+  position: absolute;
+  top: 52px;
+  width: 152px;
+}
+
+.home-page2 .icon-clock {
+  height: 85px;
+  left: 90px;
+  position: absolute;
+  top: 86px;
+  width: 85px;
+}
+.home-page2 .myact-button {
+  border-bottom-left-radius: 90px;
+  border-bottom-right-radius:90px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  height: 81px !important;
+  left: 30.8% !important;
+  position: absolute !important;
+  top: 556px !important;
+  width: 265px !important;
+}
+
+.home-page2 .icon-medal-star-wrapper {
+  -webkit-backdrop-filter: blur(10px) brightness(100%);
+  backdrop-filter: blur(10px) brightness(100%);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 90.5px 90.5px 0px 0px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 256px;
+  left: 50.5%;
+  position: absolute;
+  top: 300px;
+  width: 265px;
+}
+
+.home-page2 .icon-medal-star {
+  height: 143px;
+  left: 59px;
+  position: absolute;
+  top: 56px;
+  width: 144px;
+}
+.home-page2 .review-button {
+  border-bottom-left-radius: 90px;
+  border-bottom-right-radius:90px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  height: 81px !important;
+  left: 50.5% !important;
+  position: absolute !important;
+  top: 556px !important;
+  width: 265px !important;
+}
+
+.home-page2 .icon-messages-wrapper {
+  -webkit-backdrop-filter: blur(10px) brightness(100%);
+  backdrop-filter: blur(10px) brightness(100%);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 90.5px 90.5px 0px 0px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 256px;
+  left: 70%;
+  position: absolute;
+  top: 300px;
+  width: 265px;
+}
+
+.home-page2 .icon-messages {
+  height: 144px;
+  left: 61px;
+  position: absolute;
+  top: 56px;
+  width: 144px;
+}
+.home-page2 .report-button {
+  border-bottom-left-radius: 90px;
+  border-bottom-right-radius:90px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  height: 81px !important;
+  left: 70% !important;
+  position: absolute !important;
+  top: 556px !important;
+  width: 265px !important;
+}
+
+
+.home-page2 .button-instance {
+  height: 66px !important;
+  left: 56px !important;
+  top: 15px !important;
+  width: 151px !important;
+}
+
+
+.drop{
+  background-color: #ffffff;
+  width: 161px;
+  max-height: 145px;
+  height: 145px;
+  color: black;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  right: 4.5%;
+  line-height: 12px;
+  position: absolute;
+  top: 155px;
+  border-radius: 30px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+.drop .my-account{
+  color: dimgray;
+  position: absolute;
+  top: 51px;
+  text-align: center;
+  width: 158px;
+  height: 0px;
+}
+
+.drop .logout{
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 2px;
+  position: absolute;
+  top: 115px;
+  left: 45px;
+  color:rgb(224, 52, 52);
+}
+
+.drop .line{
+  position: absolute;
+  top: 90px;
+  left: 15px;
+  width: 130px;
+  height: 1px;
+  
+}
+
+.my-account:hover{
+  background-color: rgba(190, 193, 195, 0.356);
+  top: 41px;
+  text-align: center;
+  line-height: 32px;
+  width: 158px;
+  height: 35px;
+  left: 1.5px;
+  font-size: 18px;
+  font-weight: 600px;
+  color: dimgray;
+  transition: 0.15s;
+  border-radius: 10px;
+}
+ .logout:hover{
+  color: rgb(224, 52, 52);;
+  font-size: larger;
+  transition: 0.2s;
+ }
+
+textarea{
+  resize: none;
+  border-color: #ffffff;
+}
+
+
+
+

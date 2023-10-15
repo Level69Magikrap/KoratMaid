@@ -1,0 +1,25 @@
+.textbox {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #00000080;
+  border-radius: 25px;
+  height: 63px;
+  left: -1839px;
+  position: relative;
+  top: 771px;
+  width: 563px;
+}
+
+.textbox .textbox-show-text {
+  color: var(--variable-collection-text1);
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  height: 31px;
+  left: 26px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  width: 495px;
+}

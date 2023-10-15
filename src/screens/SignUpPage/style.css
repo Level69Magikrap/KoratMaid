@@ -1,0 +1,179 @@
+.sign-up-page {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sign-up-page .div-2 {
+  background-image: url('../../image/loginBG.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  width: 100%;
+}
+
+.sign-up-page .maid-logo-white-instance {
+  left: 129px !important;
+  position: absolute !important;
+  top: 109px !important;
+}
+
+.sign-up-page .overlap {
+  -webkit-backdrop-filter: blur(15px) brightness(100%);
+  backdrop-filter: blur(15px) brightness(100%);
+  background: linear-gradient(
+    180deg,
+    rgba(150.87, 150.87, 150.87, 0.5) 3.58%,
+    rgba(191.25, 191.25, 191.25, 0.5) 17.04%,
+    rgba(148.75, 148.75, 148.75, 0.03) 82.08%,
+    rgba(170.01, 170.01, 170.01, 0) 99.34%
+  );
+  height: 100%;
+  left: 40%;
+  position: absolute;
+  top: 0;
+  width: 60%;
+  border-top-left-radius: 104px;
+  border-bottom-left-radius: 104px;
+}
+
+.sign-up-page .next-button {
+  height: 54px !important;
+  left: 37% !important;
+  position: absolute !important;
+  top: 88% !important;
+  width: 32.5% !important;
+}
+
+.sign-up-page .button-instance {
+  font-size: 24px !important;
+  height: 44px !important;
+  letter-spacing: 2.4px !important;
+  top: 13px !important;
+  width: 70% !important;
+  left: 15%;
+}
+
+.sign-up-page .back-button-instance {
+  left: 54px !important;
+  position: absolute !important;
+}
+.sign-up-page .username-textbox {
+  height: 45px;
+  position: absolute;
+  top: 130px;
+  width : 430px;
+  left: 200px;
+}
+
+.sign-up-page .firstname-textbox {
+  height: 45px;
+  position: absolute;
+  top: 220px;
+  width : 430px;
+  left: 200px;
+}
+
+.sign-up-page .lastname-textbox {
+  height: 45px;
+  position: absolute;
+  top: 310px;
+  width : 430px;
+  left: 200px;
+}
+.sign-up-page .email-textbox {
+  height: 45px;
+  position: absolute;
+  top: 400px;
+  width : 430px;
+  left: 200px;
+}
+
+.sign-up-page .phone-textbox {
+  height: 45px;
+  position: absolute;
+  top: 490px;
+  width : 430px;
+  left: 200px;
+}
+
+.sign-up-page .address-textbox {
+  
+  height: 137px;
+  left: 200px;
+  position: absolute;
+  top: 580px;
+  width : 430px;
+}
+.sign-up-page .password-textbox {
+  height: 45px;
+  left: 200px;
+  position: absolute;
+  top: 670px;
+  width : 430px;
+}
+
+.sign-up-page .confirm-textbox {
+
+  height: 45px;
+  left: 200px;
+  position: absolute;
+  top: 760px;
+  width : 430px;
+}
+
+.sign-up-page .sign-up {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  height: 124px;
+  left: 205px;
+  letter-spacing: 6px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 40px;
+  width: 450px;
+}
+
+.sign-up-page .button-instance {
+  font-size: 24px !important;
+  height: 44px !important;
+  letter-spacing: 2.4px !important;
+  top: 15px !important;
+  width: 215px !important;
+  left: 20px;
+}
+
+
+
+
+.sign-up-page .back-button-instance {
+  left: 54px !important;
+  position: absolute !important;
+}
+
+.sign-up-page .Create-button {
+  background-color: #FFE664;
+  height: 45px !important;
+  left: 140px !important;
+  position: absolute !important;
+  top: 880px !important;
+  width: 150px !important;
+  border-radius: 15px;
+  font-size: 25px;
+  font-weight: 700;
+  text-align: center;
+  line-height: 30px;
+  font-family: "Inter", Helvetica;
+  color: #464545;
+  letter-spacing: 2px;
+}
+
+.sign-up-page .Create-button:hover {
+  background-color: #040404 !important; /* Set the same background color as the default */
+}

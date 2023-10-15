@@ -1,0 +1,46 @@
+.history-page {
+    background-color:#ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.history-page .div-4 {
+    background-color: #8CC8FF;
+    height: 1024px;
+    position: relative;
+    width: 1440px;
+}
+
+.history-page .overlap-2 {
+    height: 900px;
+    left: 0;
+    position: absolute;
+    top: 124px;
+    width: 1440px;
+}
+
+.history-page .backgound-white-default {
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+}
+
+.history-page .text-wrapper-9 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    height: 124px;
+    left: 495px;
+    position: absolute;
+    text-align: center;
+    top: -88px;
+    width: 450px;
+  }
+
+.history-page .icon-home-2 {
+    left: 67px !important;
+    top: -88px !important;
+  }

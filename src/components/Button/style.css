@@ -1,0 +1,40 @@
+.button {
+  all: unset;
+  background-color: #ffe663;
+  border-radius: 25px;
+  box-shadow: 0px 4px 4px #00000040;
+  box-sizing: border-box;
+  height: 49px;
+  left: 20px;
+  position: relative;
+  top: 20px;
+  width: 151px;
+}
+
+.button .button-text {
+  color: #464444;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  height: 40px;
+  left: 32px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: 86px;
+}
+
+.button:hover {
+  background-color: #060500;
+  top: 90px;
+}
+
+.button:hover .button-text {
+  color: #ffffff;
+}
+
+
+
+

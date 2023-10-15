@@ -1,0 +1,30 @@
+.maid-logo-white {
+  height: 383px;
+  left: -268px;
+  position: relative;
+  top: 4335px;
+  width: 320px;
+}
+
+.maid-logo-white .overlap-group {
+  height: 383px;
+  position: relative;
+}
+
+.maid-logo-white .the-best-home {
+  height: 209px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 209px;
+}
+
+.maid-logo-white .img {
+  height: 320px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 320px;
+}

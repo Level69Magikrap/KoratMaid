@@ -1,0 +1,123 @@
+.profile-page2 {
+    background-color:transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .profile-page2 .div-2 {
+    background-color: #8CC8FF;
+    height: 1024px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .profile-page2 .overlap-2 {
+    height: 900px;
+    left: 0;
+    position: absolute;
+    top: 124px;
+    width: 1440px;
+  }
+  
+  .profile-page2 .design-component-instance-node {
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .profile-page2 .backgound-white-default {
+    background-color: #f0f0f0 !important;
+  }
+  
+  .profile-page2 .text-wrapper-8 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 48px;
+    font-weight: 700;
+    height: 124px;
+    left: 655px;
+    letter-spacing: 7.2px;
+    line-height: normal;
+    position: absolute;
+    top: 46px;
+    width: 518px;
+  }
+  
+  .profile-page2 .button-instance {
+    left: 966px !important;
+    position: absolute !important;
+    top: 778px !important;
+    width: 253px !important;
+  }
+  
+  .profile-page2 .button-2 {
+    left: 54px !important;
+    width: 144px !important;
+  }
+  
+  
+  
+  .profile-page2 .text-wrapper-9 {
+    color: #BFBFBF;
+    font-family: "Inter", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 25px;
+    left: 119px;
+    letter-spacing: 2px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 292px;
+    width: 220px;
+  }
+
+  
+  .profile-page2 .icon-profile-circle {
+    height: 185px;
+    left: 141px;
+    position: absolute;
+    top: 91px;
+    width: 185px;
+  }
+  
+  .profile-page2 .text-wrapper-10 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 600;
+    height: 124px;
+    left: 574px;
+    letter-spacing: 6px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 38px;
+    width: 292px;
+  }
+  
+  .profile-page2 .icon-home-2 {
+    left: 67px !important;
+    top: 38px !important;
+  }
+
+  .boxaddress{
+    top: 20%;
+    width: 500px;
+    height: 150px;
+    left: 45.5%;
+    position: relative;
+  }
+
+  textarea{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    resize: none;
+    font-size: 30px;
+    border-radius: 25px;
+    text-align: center;
+    border-color: #f0f0f0;
+  }

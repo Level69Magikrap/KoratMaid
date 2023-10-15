@@ -1,0 +1,368 @@
+.account-tab {
+  background-color: #ffffff;
+  box-shadow: 4px 0px 10px #00000040;
+  height: 900px;
+  left: 20px;
+  position: relative;
+  width: 460px;
+}
+
+.account-tab .text-wrapper {
+  color: #8CC8FF;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  height: 31px;
+  left: 78px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 476px;
+  width: 136px;
+}
+
+.account-tab .div {
+  color: #8CC8FF;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  height: 31px;
+  left: 78px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 520px;
+  width: 136px;
+}
+
+.account-tab .line {
+  height: 1px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 465px;
+  width: 344px;
+}
+
+.account-tab .img {
+  height: 2.5px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 553.5px;
+  width: 344px;
+}
+
+.account-tab .line-2 {
+  height: 1px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 509px;
+  width: 344px;
+}
+
+.account-tab .overlap {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 421px;
+  width: 401px;
+}
+
+.account-tab .group {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 401px;
+}
+
+.account-tab .overlap-group {
+  height: 44px;
+  position: relative;
+}
+
+.account-tab .rectangle-2 {
+  background-color: #e6e6e678;
+  height: 44px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 391px;
+}
+
+.account-tab .rectangle-3 {
+  background-color: #8CC8FF;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.account-tab .text-wrapper-2 {
+  color: #8CC8FF;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  height: 31px;
+  left: 78px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  width: 136px;
+}
+
+/*======================acct2============================*/
+.account-tab2 {
+  background-color: #ffffff;
+  box-shadow: 4px 0px 10px #00000040;
+  height: 900px;
+  left: 20px;
+  position: relative;
+  width: 460px;
+}
+
+.account-tab2 .text-wrapper {
+  color: #8CC8FF;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  height: 31px;
+  left: 78px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 476px;
+  width: 136px;
+}
+
+.account-tab2 .div {
+  color: #8CC8FF;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  height: 31px;
+  left: 78px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 520px;
+  width: 136px;
+}
+
+.account-tab2 .line {
+  height: 1px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 465px;
+  width: 344px;
+}
+
+.account-tab2 .img {
+  height: 2.5px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 553.5px;
+  width: 344px;
+}
+
+.account-tab2 .line-2 {
+  height: 1px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 509px;
+  width: 344px;
+}
+
+.account-tab2 .overlap {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 421px;
+  width: 401px;
+}
+
+.account-tab2 .group {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 401px;
+}
+
+.account-tab2 .overlap-group {
+  height: 44px;
+  position: relative;
+}
+
+/* .account-tab2 .rectangle-2 {
+  background-color: #e6e6e678;
+  height: 44px;
+  left: 10px;
+  position: absolute;
+  top: 44.5px;
+  width: 391px;
+} */
+
+.account-tab2 .rectangle-3 {
+  background-color: #8CC8FF;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 44.5px;
+  width: 11px;
+}
+
+.account-tab2 .text-wrapper-2 {
+  color: #8CC8FF;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  height: 31px;
+  left: 78px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  width: 136px;
+}
+
+/*======================acct3============================*/
+.account-tab3 {
+  background-color: #ffffff;
+  box-shadow: 4px 0px 10px #00000040;
+  height: 900px;
+  left: 20px;
+  position: relative;
+  width: 460px;
+}
+
+.account-tab3 .text-wrapper {
+  color: #8CC8FF;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  height: 31px;
+  left: 78px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 476px;
+  width: 136px;
+}
+
+.account-tab3 .div {
+  color: #8CC8FF;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  height: 31px;
+  left: 78px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 520px;
+  width: 136px;
+}
+
+.account-tab3 .line {
+  height: 1px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 465px;
+  width: 344px;
+}
+
+.account-tab3 .img {
+  height: 2.5px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 553.5px;
+  width: 344px;
+}
+
+.account-tab3 .line-2 {
+  height: 1px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 509px;
+  width: 344px;
+}
+
+.account-tab3 .overlap {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 421px;
+  width: 401px;
+}
+
+.account-tab3 .group {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 401px;
+}
+
+.account-tab3 .overlap-group {
+  height: 44px;
+  position: relative;
+}
+
+/* .account-tab3 .rectangle-2 {
+  background-color: #e6e6e678;
+  height: 44px;
+  left: 10px;
+  position: absolute;
+  top: 89.5px;
+  width: 391px;
+} */
+
+.account-tab3 .rectangle-3 {
+  background-color: #8CC8FF;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 89.5px;
+  width: 11px;
+}
+
+.account-tab3 .text-wrapper-2 {
+  color: #8CC8FF;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  height: 31px;
+  left: 78px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  width: 136px;
+}
+
+.text-wrapper:hover{
+  color: black;
+  font-size: 23px;
+  font-weight: 600;
+}
+.text-wrapper-2:hover{
+  color: black;
+  font-size: 23px;
+  font-weight: 600;
+}
+.div:hover{
+  color: black;
+  font-size: 23px;
+  font-weight: 600;
+}

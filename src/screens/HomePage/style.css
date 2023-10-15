@@ -1,0 +1,158 @@
+.home-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-page .overlap-group-wrapper {
+  background-image: url('../../image/homeBG.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  width: 100%;
+}
+
+.home-page .overlap-group {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  top: -77px;
+}
+
+
+.home-page .cleaning-equipment {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 288px;
+  left: 154px;
+  letter-spacing: 2px;
+  line-height: 20px;
+  position: absolute;
+  top: 65%;
+  width: 636px;
+}
+
+.home-page .text-wrapper {
+  color: #000000;
+  line-height: 30px;
+}
+
+.home-page .span {
+  color: #000000;
+  line-height: 25px;
+}
+
+.home-page .booking-button {
+  left: 154px !important;
+  position: absolute !important;
+  top: 92% !important;
+  width: 213px !important;
+}
+
+.home-page .button-instance {
+  left: 45px !important;
+  width: 121px !important;
+  top: 12px;
+}
+
+.home-page .we-make-your-home {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 64px;
+  font-weight: 900;
+  height: 272px;
+  left: 150px;
+  letter-spacing: 6.4px;
+  line-height: 80px;
+  position: absolute;
+  top: 25%;
+  width: 450px;
+}
+
+.home-page .text-wrapper-2 {
+  color: #000000;
+}
+
+.home-page .text-wrapper-3 {
+  color: #82c0ee;
+}
+
+.home-page .main-tab-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 77px !important;
+}
+
+.home-page .div-1 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  height: 32px;
+  left: 59.5%;
+  letter-spacing: 2.4px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 14.5%;
+  width: 158px;
+}
+.home-page .div-1:hover{
+  color: #060500;
+}
+
+.home-page .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  height: 32px;
+  left: 66.5%;
+  letter-spacing: 2.4px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 14.5%;
+  width: 158px;
+}
+
+.home-page .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  height: 32px;
+  left: 75%;
+  letter-spacing: 2.4px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 14.5%;
+  width: 158px;
+}
+
+.home-page .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  height: 32px;
+  left: 85%;
+  letter-spacing: 2.4px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 14.5%;
+  width: 158px;
+}
+
+.home-page .maid-logo-text-instance {
+  left: 34px !important;
+  position: absolute !important;
+  top: 0 !important;
+}

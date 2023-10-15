@@ -1,0 +1,150 @@
+.login-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.login-page .div {
+  background-image: url('../../image/loginBG.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  width: 100%;
+}
+
+.login-page .overlap {
+  -webkit-backdrop-filter: blur(15px) brightness(100%);
+  backdrop-filter: blur(15px) brightness(100%);
+  background: linear-gradient(
+    180deg,
+    rgba(150.87, 150.87, 150.87, 0.5) 3.58%,
+    rgba(191.25, 191.25, 191.25, 0.5) 17.04%,
+    rgba(148.75, 148.75, 148.75, 0.03) 82.08%,
+    rgba(170.01, 170.01, 170.01, 0) 99.34%
+  );
+  height: 100%;
+  left: 40%;
+  position: absolute;
+  top: 0;
+  width: 60%;
+  border-top-left-radius: 104px;
+  border-bottom-left-radius: 104px;
+}
+
+.login-page .flexcontainer {
+  gap: 0px;
+  left: 202px;
+  position: absolute;
+  top: 50px;
+  width: 450px;
+}
+
+.login-page .text {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 64px;
+  font-weight: 600;
+  letter-spacing: 9px;
+  line-height: px;
+  text-align: center;
+}
+
+.login-page .text-wrapper {
+  color: #000000;
+  font-weight: 700;
+  left: 300px;
+}
+
+.login-page .span {
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 3px;
+}
+
+.login-page .login-button {
+  background-color: #FFE664;
+  height: 65px !important;
+  left: 128px !important;
+  position: absolute !important;
+  top: 680px !important;
+  width: 200px !important;
+  border-radius: 25px;
+  font-size: 25px;
+  font-weight: 700;
+  text-align: center;
+  line-height: 30px;
+  font-family: "Inter", Helvetica;
+  color: #464545;
+  letter-spacing: 2px;
+}
+
+.login-page .login-button:hover {
+  background-color: #040404 !important; /* Set the same background color as the default */
+}
+
+.login-page .text-wrapper-2 {
+  color: #464545;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  height: 34px;
+  left: 242px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 600px;
+  width: 271px;
+}
+
+.login-page .text-wrapper-3 {
+  color: #36a2e3;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  border-color: #000000;
+  font-weight: 700 !important;
+  height: 34px;
+  text-shadow: 1px 1px 0px #fcfcfd; 
+  left: 500px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 592px;
+  width: 150px;
+}
+
+.login-page .text-wrapper-3:hover {
+  color: #060500;
+}
+
+.login-page .maid-logo-white-instance {
+  left: 129px !important;
+  position: absolute !important;
+  top: 109px !important;
+}
+
+.login-page .back-button-instance {
+  left: 54px !important;
+  position: absolute !important;
+}
+
+.login-page .username-textbox {
+  top: 350px !important;
+  position: absolute ;
+  left: 260px;
+  width: 500px !important;
+  height: 0px !important;
+  margin: 10px 0; /* Adjust margin as needed */
+}
+
+.login-page .password-textbox {
+  width: 500px !important;
+  left:260px;
+  top: 430px;
+  position: absolute ;
+  height: 00px !important; /* Adjust height as needed */
+  margin-top: 20px; /* Adjust margin as needed */
+}

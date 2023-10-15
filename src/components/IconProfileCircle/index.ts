@@ -1,0 +1,1 @@
+export { IconProfileCircle } from "./IconProfileCircle";

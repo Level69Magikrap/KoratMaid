@@ -1,0 +1,306 @@
+.sign-up-page2 {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sign-up-page2 .div {
+  background-image: url('../../image/loginBG.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.sign-up-page2 .maid-logo-white-instance {
+  left: 129px !important;
+  position: absolute !important;
+  top: 109px !important;
+}
+
+.sign-up-page2 .overlap {
+  -webkit-backdrop-filter: blur(15px) brightness(100%);
+  backdrop-filter: blur(15px) brightness(100%);
+  background: linear-gradient(
+    180deg,
+    rgba(150.87, 150.87, 150.87, 0.5) 3.58%,
+    rgba(191.25, 191.25, 191.25, 0.5) 17.04%,
+    rgba(148.75, 148.75, 148.75, 0.03) 82.08%,
+    rgba(170.01, 170.01, 170.01, 0) 99.34%
+  );
+  height: 1024px;
+  left: 590px;
+  position: absolute;
+  top: 0;
+  border-bottom-left-radius: 104px;
+  border-top-left-radius: 104px;
+  width: 850px;
+}
+
+.sign-up-page2 .text-wrapper {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 31px;
+  left: 161px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 319px;
+  width: 174px;
+}
+
+.sign-up-page2 .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 31px;
+  left: 161px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 223px;
+  width: 174px;
+}
+
+.sign-up-page2 .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 31px;
+  left: 161px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 415px;
+  width: 174px;
+}
+
+.sign-up-page2 .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 31px;
+  left: 161px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 506px;
+  width: 174px;
+}
+
+.sign-up-page2 .more {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 31px;
+  left: 161px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 580px;
+  width: 366px;
+}
+
+.sign-up-page2 .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 31px;
+  left: 423px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 415px;
+  width: 174px;
+}
+
+.sign-up-page2 .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 31px;
+  left: 423px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 223px;
+  width: 174px;
+}
+
+.sign-up-page2 .text-wrapper-7 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  height: 124px;
+  left: 205px;
+  letter-spacing: 6px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 75px;
+  width: 450px;
+}
+
+.sign-up-page2 .housenum-textbox {
+  background-color: #ffffff;
+  border-radius: 25px;
+  height: 45px;
+  left: 161px;
+  position: absolute;
+  top: 255px;
+  width: 239px;
+}
+
+.sign-up-page2 .village-textbox {
+  background-color: #ffffff;
+  border-radius: 25px;
+  height: 45px;
+  left: 423px;
+  position: absolute;
+  top: 255px;
+  width: 281px;
+}
+
+.sign-up-page2 .street-textbox {
+  background-color: #ffffff;
+  border-radius: 25px;
+  height: 45px;
+  left: 161px;
+  position: absolute;
+  top: 351px;
+  width: 239px;
+}
+
+.sign-up-page2 .postal-textbox {
+  background-color: #ffffff;
+  border-radius: 25px;
+  height: 45px;
+  left: 161px;
+  position: absolute;
+  top: 538px;
+  width: 239px;
+}
+
+.sign-up-page2 .subd-textbox {
+  background-color: #ffffff;
+  border-radius: 25px;
+  height: 45px;
+  left: 423px;
+  position: absolute;
+  top: 351px;
+  width: 281px;
+}
+
+.sign-up-page2 .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 31px;
+  left: 423px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 319px;
+  width: 174px;
+}
+
+.sign-up-page2 .overlap-2 {
+  height: 45px;
+  left: 161px;
+  position: absolute;
+  top: 447px;
+  width: 557px;
+}
+
+.sign-up-page2 .district-textbox {
+  background-color: #ffffff;
+  border-radius: 25px;
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 239px;
+}
+
+.sign-up-page2 .province-textbox {
+  background-color: #ffffff;
+  border-radius: 25px;
+  height: 45px;
+  left: 262px;
+  position: absolute;
+  top: 0;
+  width: 281px;
+}
+
+.sign-up-page2 .text-wrapper-9 {
+  color: #BFBFBF;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 31px;
+  left: 283px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  width: 274px;
+}
+
+.sign-up-page2 .text-wrapper-10 {
+  color: #BFBFBF;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 31px;
+  left: 20px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  width: 275px;
+}
+
+.sign-up-page2 .more-textbox {
+  background-color: #ffffff;
+  border-radius: 25px;
+  height: 137px;
+  left: 161px;
+  position: absolute;
+  top: 634px;
+  width: 564px;
+}
+
+.sign-up-page2 .create-button {
+  height: 54px !important;
+  left: 239px !important;
+  position: absolute !important;
+  top: 893px !important;
+  width: 382px !important;
+}
+
+.sign-up-page2 .button-instance {
+  font-size: 24px !important;
+  height: 44px !important;
+  left: 81px !important;
+  letter-spacing: 2.4px !important;
+  top: 13px !important;
+  width: 218px !important;
+}
+
+.sign-up-page2 .back-button-instance {
+  left: 54px !important;
+  position: absolute !important;
+}

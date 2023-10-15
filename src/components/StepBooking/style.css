@@ -1,0 +1,69 @@
+.step-booking {
+  height: 66px;
+  left: 5522px;
+  position: relative;
+  top: -2559px;
+  width: 744px;
+}
+
+.step-booking .overlap {
+  background-color: #FFEF99;
+  border-radius: 33px;
+  height: 66px;
+  left: -44px;
+  position: absolute;
+  top: 0;
+  width: 66px;
+}
+
+.step-booking .text-wrapper {
+  color: #707782;
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-weight: 800;
+  height: 17px;
+  left: 20px;
+  letter-spacing: 3.2px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+  width: 26px;
+}
+
+.step-booking .overlap-group {
+  background-color: #bfbfbf;
+  border-radius: 33px;
+  height: 66px;
+  left: 204px;
+  position: absolute;
+  top: 0;
+  width: 66px;
+}
+
+.step-booking .div-wrapper {
+  background-color: #bfbfbf;
+  border-radius: 33px;
+  height: 66px;
+  left: 452px;
+  position: absolute;
+  top: 0;
+  width: 66px;
+}
+
+.step-booking .line {
+  height: 4px;
+  left: 37px;
+  position: absolute;
+  top: 31px;
+  width: 151px;
+}
+
+.step-booking .img {
+  height: 4px;
+  left: 285px;
+  position: absolute;
+  top: 31px;
+  width: 151px;
+}

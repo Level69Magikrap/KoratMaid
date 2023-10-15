@@ -1,0 +1,14 @@
+.back-button {
+  height: 48px;
+  left: 644px;
+  position: relative;
+  top: 51px;
+  width: 48px;
+}
+
+.back-button .group-instance {
+  height: 51px !important;
+  left: -2px !important;
+  top: -2px !important;
+  width: 51px !important;
+}

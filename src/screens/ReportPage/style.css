@@ -1,0 +1,91 @@
+.report-page {
+    background-color:#aa2828;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.report-page .div-4 {
+    background-color: #8CC8FF;
+    height: 1024px;
+    position: relative;
+    width: 100%;
+}
+
+.report-page .overlap-2 {
+    height: 900px;
+    left: 0;
+    position: absolute;
+    top: 124px;
+    width: 100%;
+}
+
+.backgound-white-default {
+    background-color: #ffffff;
+  border-radius: 75px 75px 0px 0px;
+  box-shadow: 0px -5px 15px #00000033;
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.report-page .text-wrapper-9 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    height: 10%;
+    left: 40%;
+    position: absolute;
+    text-align: center;
+    top: -10%;
+    width: 20%;
+  }
+
+.report-page .icon-home-2 {
+    left: 67px !important;
+    top: -88px !important;
+  }
+
+.report-page .input-box{
+    width: 41%;
+    height: 49%;
+    border-radius: 25px;
+    position: absolute;
+    left: 30%;
+    top: 7%;
+}
+
+.report-page .pleaseProvide-text{
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 1.44px;
+    color: #bfbfbf;
+    top: 68%;
+    position: absolute;
+    width: 38%;
+    left: 33%;
+}
+.report-page .upload{
+    left: 31%;
+    top: 34%;
+    position: absolute;
+}
+
+.submitButton{
+    position: absolute;
+    left: 150%;
+    top: 100%;
+}
+
+.submitButton:hover{
+    background-color: black;
+    color: #ffffff;
+}
+
+
+

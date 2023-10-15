@@ -1,0 +1,348 @@
+
+      .booking-page2 {
+        background-color:#ffffff;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        width: 100%;
+        
+      }
+      
+      .booking-page2 .div-4 {
+        background-color: #8CC8FF;
+        height: 1024px;
+        position: relative;
+        width: 1440px;
+      }
+      
+      .booking-page2 .overlap-2 {
+        height: 900px;
+        left: 0;
+        position: absolute;
+        top: 124px;
+        width: 1440px;
+      }
+      
+      .booking-page2 .backgound-white-default {
+        left: 0 !important;
+        position: absolute !important;
+        top: 0 !important;
+      }
+      
+      .booking-page2 .step-booking-instance {
+        height: 57px !important;
+        left: 521px !important;
+        position: absolute !important;
+        top: 55px !important;
+        width: 638px !important;
+      }
+      
+      .booking-page2 .design-component-instance-node {
+        border-radius: 28.3px/28.5px !important;
+        height: 57px !important;
+        left: -38px !important;
+        width: 57px !important;
+      }
+      
+      .booking-page2 .step-booking-2 {
+        height: 15px !important;
+        left: 17px !important;
+        top: 6px !important;
+        width: 22px !important;
+      }
+      
+      .booking-page2 .step-booking-3 {
+        background-color: #FFEF99;
+    border-radius: 28.3px/28.5px !important;
+    height: 57px !important;
+    left: 175px !important;
+    width: 57px !important;
+      }
+      
+      .booking-page2 .step-booking-4 {
+        border-radius: 28.3px/28.5px !important;
+        height: 57px !important;
+        left: 388px !important;
+        width: 57px !important;
+      }
+      
+      .booking-page2 .step-booking-5 {
+        left: 31px !important;
+        top: 26px !important;
+        width: 130px !important;
+      }
+      
+      .booking-page2 .step-booking-6 {
+        left: 244px !important;
+        top: 26px !important;
+        width: 130px !important;
+      }
+      
+      .booking-page2 .button-instance {
+        height: 66px !important;
+        left: 1192px !important;
+        position: absolute !important;
+        top: 777px !important;
+        width: 166px !important;
+      }
+      
+      .booking-page2 .button-2 {
+        height: 54px !important;
+        left: 35px !important;
+        top: 19px !important;
+        width: 95px !important;
+      }
+      
+      .booking-page2 .rectangle-2 {
+        height: 606px;
+        left: 231px;
+        position: absolute;
+        top: 147px;
+        width: 958px;
+      }
+      
+      .booking-page2 .service-charge-xxxx {
+        color: #000000;
+        font-family: "Inter", Helvetica;
+        font-size: 20px;
+        font-weight: 200;
+        height: 24px;
+        left: 540px;
+        letter-spacing: 2px;
+        line-height: normal;
+        position: absolute;
+        top: 685px;
+        white-space: nowrap;
+      }
+      
+      .booking-page2 .text-wrapper-2 {
+        color: #000000;
+        font-family: "Inter", Helvetica;
+        font-size: 20px;
+        font-weight: 200;
+        height: 24px;
+        left: 301px;
+        letter-spacing: 2px;
+        line-height: normal;
+        position: absolute;
+        text-align: center;
+        top: 200px;
+        white-space: nowrap;
+      }
+      
+      .booking-page2 .text-wrapper-3 {
+        color: #000000;
+        font-family: "Inter", Helvetica;
+        font-size: 20px;
+        font-weight: 200;
+        height: 24px;
+        left: 301px;
+        letter-spacing: 2px;
+        line-height: normal;
+        position: absolute;
+        text-align: center;
+        top: 270px;
+        white-space: nowrap;
+      }
+      
+      .booking-page2 .text-wrapper-4 {
+        color: #000000;
+        font-family: "Inter", Helvetica;
+        font-size: 20px;
+        font-weight: 200;
+        height: 24px;
+        left: 302px;
+        letter-spacing: 2px;
+        line-height: normal;
+        position: absolute;
+        text-align: center;
+        top: 340px;
+        white-space: nowrap;
+      }
+      
+      .booking-page2 .p {
+        color: #000000;
+        font-family: "Inter", Helvetica;
+        font-size: 20px;
+        font-weight: 200;
+        height: 24px;
+        left: 302px;
+        letter-spacing: 2px;
+        line-height: normal;
+        position: absolute;
+        top: 455px;
+        white-space: nowrap;
+      }
+      
+      .booking-page2 .text-wrapper-5 {
+        color: #000000;
+        font-family: "Inter", Helvetica;
+        font-size: 20px;
+        font-weight: 200;
+        height: 24px;
+        left: 302px;
+        letter-spacing: 2px;
+        line-height: normal;
+        position: absolute;
+        text-align: center;
+        top: 550px;
+        white-space: nowrap;
+      }
+      
+      .booking-page2 .text-wrapper-6 {
+        color: #000000;
+      font-family: "Inter-SemiBold", Helvetica;
+      font-size: 20px;
+      font-weight: 600;
+      height: 24px;
+      left: 302px;
+      letter-spacing: 0;
+      line-height: normal;
+      position: absolute;
+      top: 515px;
+      white-space: nowrap;
+      }
+      .booking-page2 .text-wrapper-7 {
+        color: #000000;
+        font-family: "Inter-SemiBold", Helvetica;
+        font-size: 20px;
+        font-weight: 600;
+        height: 24px;
+        left: 574px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: absolute;
+        top: 200px;
+        width: 6px;
+      }
+      .booking-page2 .text-wrapper-8 {
+        color: #000000;
+        font-family: "Inter-SemiBold", Helvetica;
+        font-size: 20px;
+        font-weight: 600;
+        height: 24px;
+        left: 444px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: absolute;
+        top: 270px;
+        white-space: nowrap;
+      }
+
+      .booking-page2 .text-wrapper-9 {
+        color: #000000;
+        font-family: "Inter-SemiBold", Helvetica;
+        font-size: 20px;
+        font-weight: 600;
+        height: 24px;
+        left: 444px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: absolute;
+        top: 340px;
+        white-space: nowrap;
+      }
+
+      .booking-page2 .text-wrapper-10 {
+        color: #000000;
+        font-family: "Inter-SemiBold", Helvetica;
+        font-size: 20px;
+        font-weight: 600;
+        height: 24px;
+        left: 303px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: absolute;
+        top: 580px;
+        white-space: nowrap;
+      }
+      .booking-page2 .text-wrapper-11 {
+        color: #000000;
+        font-family: "Inter", Helvetica;
+        font-size: 40px;
+        font-weight: 700;
+        height: 124px;
+        left: 495px;
+        position: absolute;
+        text-align: center;
+        top: -88px;
+        width: 450px;
+      }
+      .booking-page2 .text-wrapper-12 {
+        color: #000000;
+        font-family: "Inter", Helvetica;
+        font-size: 30px;
+        font-weight: 700;
+        left: 180px;
+        position: absolute;
+        text-align: center;
+        top: -9px;
+       
+      }
+      .booking-page2 .text-wrapper-13 {
+        color: #000000;
+        font-family: "Inter", Helvetica;
+        font-size: 20px;
+        font-weight: 200;
+        height: 24px;
+        left: 301px;
+        letter-spacing: 2px;
+        line-height: normal;
+        position: absolute;
+        text-align: center;
+        top: 410px;
+        white-space: nowrap;
+      }
+      .booking-page2 .text-wrapper-14 {
+        color: #000000;
+        font-family: "Inter", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        height: 24px;
+        left: 400px;
+        letter-spacing: 2px;
+        line-height: normal;
+        position: absolute;
+        text-align: center;
+        top: 410px;
+        white-space: nowrap;
+      }
+      .booking-page2 .text-wrapper-15 {
+        color: #000000;
+        font-family: "Inter", Helvetica;
+        font-size: 20px;
+        font-weight: 200;
+        height: 24px;
+        left: 650px;
+        letter-spacing: 2px;
+        line-height: normal;
+        position: absolute;
+        text-align: center;
+        top: 410px;
+        white-space: nowrap;
+      }
+      .booking-page2 .text-wrapper-16 {
+        color: #000000;
+        font-family: "Inter", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        height: 24px;
+        left: 800px;
+        letter-spacing: 2px;
+        line-height: normal;
+        position: absolute;
+        text-align: center;
+        top: 410px;
+        white-space: nowrap;
+      }
+      .booking-page2 .back-button-instance {
+        left: 157px !important;
+        position: absolute !important;
+        top: -88px !important;
+      }
+      
+      .booking-page2 .icon-home-2 {
+        left: 67px !important;
+        top: -88px !important;
+      }
+      

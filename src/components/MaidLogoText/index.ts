@@ -1,0 +1,1 @@
+export { MaidLogoText } from "./MaidLogoText";
