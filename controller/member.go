@@ -45,7 +45,7 @@ func GetReview(c *gin.Context) {
 }
 
 func ListReview(c *gin.Context) {
-	var review entity.Review
+	var review []entity.Review
 	if err := entity.DB().Raw("SELECT * FROM reviews").Scan(&review).Error; err != nil {
 		c.JSON(http.StatusBadRequest, gin.H{"error": err.Error()})
 		return
