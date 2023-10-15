@@ -41,7 +41,7 @@ export const LoginPage = (): JSX.Element => {
         <div className="overlap">
         <div className="flexcontainer">
         <p className="text">
-        <span className="text-wrapper">Welcome</span>
+        <span className="text-wrapper-welcome">Welcome</span>
         </p>
         <p className="text">
         <span className="span">Login your account to continue</span>
@@ -81,7 +81,7 @@ export const LoginPage = (): JSX.Element => {
           </Form.Item>
         </Form>
 
-        <div className="text-wrapper-2">Don't have an account?</div>
+        <div className="text-wrapper-signup">Don't have an account?</div>
 
         <Link to="/SignUpPage">
           <div className="text-wrapper-3">Sign Up</div>

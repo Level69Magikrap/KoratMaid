@@ -52,7 +52,7 @@
   text-align: center;
 }
 
-.login-page .text-wrapper {
+.login-page .text-wrapper-welcome {
   color: #000000;
   font-weight: 700;
   left: 300px;
@@ -85,7 +85,7 @@
   background-color: #040404 !important; /* Set the same background color as the default */
 }
 
-.login-page .text-wrapper-2 {
+.login-page .text-wrapper-signup {
   color: #464545;
   font-family: "Inter", Helvetica;
   font-size: 20px;
