@@ -18,6 +18,7 @@ import { ProfilePage2 }   from "./screens/ProfilePage2";
 
 
 //HELLO World โปรเจคโง่ๆ
+// mysql
 
 const App: React.FC = () => {
   return (
