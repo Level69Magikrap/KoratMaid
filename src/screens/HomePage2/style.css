@@ -35,7 +35,7 @@
   top: 0 !important;
 }
 
-.home-page2 .text-wrapper {
+.home-page2 .price {
   color: #ffffff;
   font-family: "Inter", Helvetica;
   font-size: 18px;
@@ -65,7 +65,7 @@
   width: 12%;
 }
 
-.home-page2 .text-wrapper-2 {
+.home-page2 .aboutus {
   color: #ffffff;
   font-family: "Inter", Helvetica;
   font-size: 16px;
@@ -79,7 +79,7 @@
   width: 11%;
 }
 
-.home-page2 .text-wrapper-3 {
+.home-page2 .contactus {
   color: #ffffff;
   font-family: "Inter", Helvetica;
   font-size: 16px;

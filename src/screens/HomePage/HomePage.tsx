@@ -13,15 +13,15 @@ export const HomePage = (): JSX.Element => {
   return (
  
       <div className="home-page">
-        <div className="overlap-group-wrapper">
+        <div className="overlap-group-wrapper1">
           <div className="overlap-group">
             
             <p className="cleaning-equipment">
-              <span className="text-wrapper">
+              <span className="text-wrapper1">
                 Cleaning equipment available
                 <br />
               </span>
-              <span className="span">
+              <span className="span001">
                 Convenient online platform for placing an order <br />
                 Easy Scheduling
                 <br />
@@ -39,9 +39,9 @@ export const HomePage = (): JSX.Element => {
            
           
             <p className="we-make-your-home">
-              <span className="text-wrapper-2">We Make Your H</span>
-              <span className="text-wrapper-3">o</span>
-              <span className="text-wrapper-2">me Better</span>
+              <span className="text2">We Make Your H</span>
+              <span className="text3">o</span>
+              <span className="text2">me Better</span>
             </p>
             <MainTab className="main-tab-instance" />
             

@@ -6,7 +6,7 @@
   width: 100%;
 }
 
-.home-page .overlap-group-wrapper {
+.home-page .overlap-group-wrapper1 {
   background-image: url('../../image/homeBG.png');
   background-position: 50% 50%;
   background-size: cover;
@@ -37,12 +37,12 @@
   width: 636px;
 }
 
-.home-page .text-wrapper {
+.home-page .text-wrapper1 {
   color: #000000;
   line-height: 30px;
 }
 
-.home-page .span {
+.home-page .span001 {
   color: #000000;
   line-height: 25px;
 }
@@ -74,11 +74,11 @@
   width: 450px;
 }
 
-.home-page .text-wrapper-2 {
+.home-page .text2 {
   color: #000000;
 }
 
-.home-page .text-wrapper-3 {
+.home-page .text3 {
   color: #82c0ee;
 }
 

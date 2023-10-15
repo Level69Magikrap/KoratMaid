@@ -36,10 +36,10 @@ export const HomePage2 = (): JSX.Element => {
         <div className="overlap-group"> 
           <MainTab className="main-tab-instance" />
           <MaidLogoText className="maid-logo-text-instance" />
-          <div className="text-wrapper">Price</div>
+          <div className="price">Price</div>
           <div className="username"><textarea value={member.map((member) => member.UserName)}></textarea></div>
-          <div className="text-wrapper-2">About Us</div>
-          <div className="text-wrapper-3">Contact Us</div>
+          <div className="aboutus">About Us</div>
+          <div className="contactus">Contact Us</div>
           <IconProfileCircle className="icon-profile-circle-instance" onClick={handleIconClick}/>
           {isDropVisible && (
             <div className="drop">
