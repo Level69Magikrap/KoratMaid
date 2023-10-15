@@ -13,7 +13,7 @@ import { GetAccommodations, GetHour_of_works, CreateService, GetMemberById} from
 import { Link,useLocation,useNavigate, useParams } from "react-router-dom";
 import TextArea from "antd/es/input/TextArea";
 
-//aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 export const BookingPage = (): JSX.Element => {
   const navigate = useNavigate();
   const location = useLocation();
