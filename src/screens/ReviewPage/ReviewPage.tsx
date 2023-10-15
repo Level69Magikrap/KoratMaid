@@ -13,46 +13,6 @@ const handleChange = (value: string) => {
   console.log(`selected ${value}`);
 };
 const { TextArea } = Input;
-const data: ReviewInterface[] = [
-  {
-    Rate: 5,
-    Detail: "hello",
-  },
-  {
-    Rate: 5,
-    Detail: "hello",
-  },
-  {
-
-    Rate: 5,
-    Detail: "hello",
-  },
-  {
-
-    Rate: 5,
-    Detail: "hello",
-  },
-  {
-
-    Rate: 5,
-    Detail: "hello",
-  },
-  {
-    Rate: 5,
-    Detail: "hello",
-  },
-  {
-
-    Rate: 5,
-    Detail: "hello",
-  },
-  {
-    Rate: 5,
-    Detail: "hello",
-  },
-  
-];
-console.log(data);
 const columns: ColumnsType<ReviewInterface> = [
   {
       title: "คะแนน",
@@ -81,7 +41,6 @@ export const ReviewPage = (): JSX.Element => {
       useEffect(() => {
           listReview();
       },[]);
-      console.log(reviews);
       const [messageApi] = message.useMessage();
       const onFinish = async (values: ReviewInterface) => {
         let res = await CreateReview(values);
@@ -107,7 +66,7 @@ export const ReviewPage = (): JSX.Element => {
           <div className='body'>
             <div className='reviewpage'>
               <div className='show'>
-                <Table columns={columns} dataSource={data} pagination={{ pageSize: 5 }}/>
+                <Table columns={columns} dataSource={reviews} pagination={{ pageSize: 5 }}/>
               </div>
             </div>
             <Form onFinish={onFinish}>
