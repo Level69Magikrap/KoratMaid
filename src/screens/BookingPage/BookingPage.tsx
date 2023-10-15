@@ -153,16 +153,13 @@ export const BookingPage = (): JSX.Element => {
             autoComplete="off"
             labelCol={{span:24}}
             wrapperCol={{span:24}}
-
           >
-
             <Form.Item
               label={<span className="text1">Please select accommodation type.
                 <br />We will estimate the cleaning time and the price.
               </span>}
               name="AccomodationID" 
               >
-              
               <Select allowClear
                 className="custom-selectAccommodation"
                 placeholder="Please select accommodation type."
@@ -203,18 +200,15 @@ export const BookingPage = (): JSX.Element => {
                 <DatePicker className="custom-DatePicker" disabledDate={disabledDate}
                 ></DatePicker>
               </Form.Item>
-
               <Form.Item name="PickTime" /*rules={[{ required: true, message: "Please select time!", },]}*/
                 style={{ display: 'inline-block', margin: '0 8px' }}>
                 <TimePicker className="custom-TimePicker" format="HH:mm" ></TimePicker>
               </Form.Item >
             </Form.Item>
-
             <Form.Item label={<span className="text4">Dose your place have pets? (if yes, please specify)</span>} name="Has_pet"
               labelCol={{ span: 25 }} style={{marginTop:10}}>
               <Radio.Group onChange={YesnoChange} value={yesno} >
                 <Radio className="yes" value={'yes'} >YES {yesno === 'yes' ?
-                
                   <Form.Item
                     name="Pet_detail">
                     <div className="rectangle-1" />
@@ -231,8 +225,7 @@ export const BookingPage = (): JSX.Element => {
             </Form.Item>     
             <Form.Item>
              <Buttonn buttonTextClassName="button-2" className="button-instance" text="OK" />
-            </Form.Item>
-            
+            </Form.Item>   
           </Form>
             <Form className="textLocation"
               name="b"
@@ -245,16 +238,12 @@ export const BookingPage = (): JSX.Element => {
               <span style={{ fontSize: 18 }}>Address</span><br/>
               <span style={{ fontSize: 18 }}> - {member?.Address}</span><br />
               <span style={{ fontSize: 18 }}> Tel.{member?.Tel}</span>
-
             </Form>
           <span className="textService">Service Charge : </span>  
           <span className="textService1">{selectedAccommodationPrice + selectedHour_of_workPrice} Baht</span>
           {/*==============================================================*/}
-
-
           <div className="text-wrapper-9">Booking a service</div>
 
-          <BackButton4 className="back-button-instance" /> {/*Return to previouse page */}
           <IconHome className="icon-home-2" /> {/*Return to homepage2 */}
         </div>
       </div>
